@@ -4,6 +4,10 @@
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+---
+---
+---
+---
 --->
 
 # 👋 Hi, I'm Songgu Xie (Jack)
@@ -12,7 +16,6 @@
 💻 SAS & R programmer | Real-World Evidence (RWE) | HEOR & Medical Affairs | Standards & SDLC  
 📊 Conference Presenter (PHUSE, PharmaSUG) | Lifelong Learner (OMSCS @ Georgia Tech)
 
----
 
 ## 🔹 About Me
 I’m a statistical programmer with 10+ years of experience delivering **regulatory submission deliverables, real-world evidence analyses, and Medical Affairs publications**.  My expertise spans **SAS (Base/Advanced, ADaM/SDTM, Macros), R (Shiny, tidyverse, data.table), SQL, Unix/Linux, and Git/GitHub**.  
@@ -20,7 +23,6 @@ I’m a statistical programmer with 10+ years of experience delivering **regulat
 - 👀 I enjoy building **standardized macro libraries, interactive dashboards, and reproducible workflows** that make analysis more efficient, transparent, and impactful.
 - 🌱 I’m currently learning JavaScript
 
----
 
 ## 🔹 Featured Projects
 Here are some examples of my public work (using **simulated or open datasets**):
@@ -37,7 +39,7 @@ Here are some examples of my public work (using **simulated or open datasets**):
 - 📂 [**GitHub Workflow Example**](#)  
   *Demonstrates use of Git branching, pull requests, and validation scripts for SDLC compliance.*
 
----
+
 
 ## 🔹 Technical Skills
 - **SAS**: Base & Advanced, SDTM/ADaM, Macros, TLFs, GTL/SGPLOT  
@@ -46,7 +48,7 @@ Here are some examples of my public work (using **simulated or open datasets**):
 - **Databases**: SQL, Teradata, claims/EHR (simulated/public datasets)  
 - **Other**: Git/GitHub, Unix/Linux shell, D3.js for visualization  
 
----
+
 
 ## 🔹 Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-link)  
