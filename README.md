@@ -17,9 +17,8 @@
 ## 🔹 About Me
 I’m a statistical programmer with 10+ years of experience delivering **regulatory submission deliverables, real-world evidence analyses, and Medical Affairs publications**.  My expertise spans **SAS (Base/Advanced, ADaM/SDTM, Macros), R (Shiny, tidyverse, data.table), SQL, Unix/Linux, and Git/GitHub**.  
 
-👀 I enjoy building **standardized macro libraries, interactive dashboards, and reproducible workflows** that make analysis more efficient, transparent, and impactful.
-
-🌱 I’m currently learning JavaScript
+- 👀 I enjoy building **standardized macro libraries, interactive dashboards, and reproducible workflows** that make analysis more efficient, transparent, and impactful.
+- 🌱 I’m currently learning JavaScript
 
 ---
 
